@@ -1,6 +1,6 @@
 # ABAP Core Skills
 
-Exercises from my learning journey **Acquiring Core ABAP Skills**, following the SAP course **S4D400 Basic ABAP Programming**. I'm building a foundation in ABAP for a techno-functional SAP role.
+Exercises from my learning journey **Acquiring Core ABAP Skills**, following the SAP course **S4D400 Basic ABAP Programming**. 
 
 > **Work in progress.** This repository is updated as I complete the exercises of the S4D400 course. New classes are added over time.
 
