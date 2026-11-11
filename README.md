@@ -22,8 +22,7 @@ Each exercise is a global class that runs in the ADT console.
 | `ZCL_3964_ITERATIONS` | DO ENDDO with TIMES and abort condition |
 | `ZCL_3964_INTERNAL_TABLES` | Simple internal tables |
 | `ZCL_3964_GLOBAL` | Defining a local class |
-| `ZCL_3964_GLOBAL2` | Defining a local class |
-| `ZCL_3964_GLOBAL` | Manage instances in an internal table |
+| `ZCL_3964_GLOBAL2` | Manage instances in an internal table |
 | `ZCL_3964_INSTANCE_ITAB` | Manage instances in an internal table |
 | `ZCL_3964_GLOBAL3` | Define methods |
 | `ZCL_3964_METHODS_EXCEPTION` | Method calls and exception handling |
