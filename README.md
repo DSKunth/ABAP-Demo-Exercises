@@ -1,6 +1,6 @@
 # ABAP Core Skills
 
-Exercises from my learning journey **Acquiring Core ABAP Skills**, following the SAP course **S4D400 Basic ABAP Programming**. 
+Demo Exercises from my learning journey **Acquiring Core ABAP Skills**, following the SAP course **S4D400 Basic ABAP Programming**. 
 
 > **Work in progress.** This repository is updated as I complete the exercises of the S4D400 course. New classes are added over time.
 
@@ -10,7 +10,6 @@ Each exercise is a global class that runs in the ADT console.
 
 | Class | Topic |
 |---|---|
-| `ZCL_3964_HELLO_WORLD` | Exercise 3 - Create Hello World application |
 | `ZCL_3964_DATA_OBJECTS` | Data objects with built-in types |
 | `ZCL_3964_LITERALS` | Data objects: literals |
 | `ZCL_3964_CONSTANTS` | Data objects: constants |
@@ -18,14 +17,16 @@ Each exercise is a global class that runs in the ADT console.
 | `ZCL_3964_LOCAL_TYPES` | Data objects with local types |
 | `ZCL_3964_CALCULATIONS` | Arithmetic calculations |
 | `ZCL_3964_STRING_PROCESSING` | String templates, format options, and string expressions |
-| `ZCL_3964_COMPUTE` | Exercise 4 – A program that does calculations based on two numbers |
 | `ZCL_3964_CONDITIONAL` | Conditional branching |
 | `ZCL_3964_EXCEPTION` | Exception handling |
 | `ZCL_3964_ITERATIONS` | DO ENDDO with TIMES and abort condition |
-| `ZCL_3964_BRANCH` | Exercise 5 - Implement Conditional branching |
 | `ZCL_3964_INTERNAL_TABLES` | Simple internal tables |
-| `ZCL_3964_ITERATE` | Exercise 6 - Use iterations and simple internal tables to calculate and display the Fibonacci numbers. |
-| `ZCL_3964_DEBUG` | Exercise 7 - Debug ABAP Code |
+| `ZCL_3964_GLOBAL` | Defining a local class |
+| `ZCL_3964_GLOBAL2` | Defining a local class |
+| `ZCL_3964_GLOBAL` | Manage instances in an internal table |
+| `ZCL_3964_INSTANCE_ITAB` | Manage instances in an internal table |
+| `ZCL_3964_GLOBAL3` | Define methods |
+| `ZCL_3964_METHODS_EXCEPTION` | Method calls and exception handling |
 
 ## How to run
 
