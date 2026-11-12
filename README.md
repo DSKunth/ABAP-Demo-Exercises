@@ -27,6 +27,7 @@ Each exercise is a global class that runs in the ADT console.
 | `ZCL_3964_GLOBAL3` | Define methods |
 | `ZCL_3964_METHODS_EXCEPTION` | Method calls and exception handling |
 | `ZCL_3964_FUNCTIONAL_METHOD` | Calling method in a value assignment (with inline declaration for result), in a logical expression, and as operand in a statement |
+| `ZCL_3964_BASIC_SELECT` | Basic SELECT statement examples |
 
 ## How to run
 
