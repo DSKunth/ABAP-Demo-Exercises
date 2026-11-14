@@ -12,8 +12,8 @@ The ABAP objects are organized in the package `ZS4D400_3964`.
 
 Each demonstration is implemented as a global ABAP class using `IF_OO_ADT_CLASSRUN`, allowing it to be executed directly in the ADT Console.
 
-| Class | Topic |
-|---|---|
+| Class | ## | Topic |
+|---|---|---|
 | `ZCL_3964_DATA_OBJECTS` | 1 | Data objects with built-in types |
 | `ZCL_3964_LITERALS` | 2 | Data objects and literals |
 | `ZCL_3964_CONSTANTS` | 3 | Constants |
