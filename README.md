@@ -14,24 +14,24 @@ Each demonstration is implemented as a global ABAP class using `IF_OO_ADT_CLASSR
 
 | Class | Topic |
 |---|---|
-| `ZCL_3964_DATA_OBJECTS` | Data objects with built-in types |
-| `ZCL_3964_LITERALS` | Data objects and literals |
-| `ZCL_3964_CONSTANTS` | Constants |
-| `ZCL_3964_GLOBAL_TYPES` | Data objects with global types |
-| `ZCL_3964_LOCAL_TYPES` | Data objects with local types |
-| `ZCL_3964_CALCULATIONS` | Arithmetic calculations |
-| `ZCL_3964_STRING_PROCESSING` | String templates, format options, and string expressions |
-| `ZCL_3964_CONDITIONAL` | Conditional branching |
-| `ZCL_3964_EXCEPTION` | Exception handling |
-| `ZCL_3964_ITERATIONS` | DO loops with TIMES and abort conditions |
-| `ZCL_3964_INTERNAL_TABLES` | Working with simple internal tables |
-| `ZCL_3964_GLOBAL` | Defining a local class |
-| `ZCL_3964_GLOBAL2` | Managing instances in an internal table |
-| `ZCL_3964_INSTANCE_ITAB` | Managing instances in an internal table |
-| `ZCL_3964_GLOBAL3` | Defining and implementing methods |
-| `ZCL_3964_METHODS_EXCEPTION` | Method calls and exception handling |
-| `ZCL_3964_FUNCTIONAL_METHOD` | Functional method calls in assignments, logical expressions, and statements |
-| `ZCL_3964_BASIC_SELECT` | Basic SELECT statement examples |
+| `ZCL_3964_DATA_OBJECTS` | 1 | Data objects with built-in types |
+| `ZCL_3964_LITERALS` | 2 | Data objects and literals |
+| `ZCL_3964_CONSTANTS` | 3 | Constants |
+| `ZCL_3964_GLOBAL_TYPES` | 4 | Data objects with global types |
+| `ZCL_3964_LOCAL_TYPES` | 5 | Data objects with local types |
+| `ZCL_3964_CALCULATIONS` | 6 | Arithmetic calculations |
+| `ZCL_3964_STRING_PROCESSING` | 7 | String templates, format options, and string expressions |
+| `ZCL_3964_CONDITIONAL` | 8 | Conditional branching |
+| `ZCL_3964_EXCEPTION` | 9 | Exception handling |
+| `ZCL_3964_ITERATIONS` | 10 | DO loops with TIMES and abort conditions |
+| `ZCL_3964_INTERNAL_TABLES` | 11 | Working with simple internal tables |
+| `ZCL_3964_GLOBAL` | 12 | Defining a local class |
+| `ZCL_3964_GLOBAL2` | 13 | Managing instances in an internal table |
+| `ZCL_3964_INSTANCE_ITAB` | 14 | Managing instances in an internal table |
+| `ZCL_3964_GLOBAL3` | 15 | Defining and implementing methods |
+| `ZCL_3964_METHODS_EXCEPTION` | 16 | Method calls and exception handling |
+| `ZCL_3964_FUNCTIONAL_METHOD` | 17 | Functional method calls in assignments, logical expressions, and statements |
+| `ZCL_3964_BASIC_SELECT` | 18 | Basic SELECT statement examples |
 
 ## Prerequisites
 
