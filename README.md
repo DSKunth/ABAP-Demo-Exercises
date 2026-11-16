@@ -37,6 +37,7 @@ Each demonstration is implemented as a global ABAP class using `IF_OO_ADT_CLASSR
 | `ZCL_3964_S4D401_DEMO1` | 21 | S4D401 exercises part 1 - live session demo |
 | `ZCL_3964_STRUCTURED_data` | 22 | Structured data objects in ABAO SQL |
 | `ZCL_3964_COMPLEX_TABLES` | 23 | Simple and complex internal tables, local and global table types |
+| `ZCL_3964_FILL_COMPLEX_TABLES` | 24 | Filling complex internal tables |
 
 
 
