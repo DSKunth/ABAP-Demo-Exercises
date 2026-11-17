@@ -39,6 +39,7 @@ Each demonstration is implemented as a global ABAP class using `IF_OO_ADT_CLASSR
 | `ZCL_3964_COMPLEX_TABLES` | 23 | Simple and complex internal tables, local and global table types |
 | `ZCL_3964_FILL_COMPLEX_TABLES` | 24 | Filling complex internal tables |
 | `ZCL_3964_ACCESS_COMPLEX_TABLES` | 25 | Access to Complex Internal Tables |
+| `ZCL_3964_INT_TABLE_ABAP_SQL` | 26 | Complex Internal Tables in ABAP SQL |
 
 
 
