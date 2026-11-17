@@ -12,34 +12,34 @@ The ABAP objects are organized in the package `ZS4D400_3964`.
 
 Each demonstration is implemented as a global ABAP class using `IF_OO_ADT_CLASSRUN`, allowing it to be executed directly in the ADT Console.
 
-| Class | ## | Topic |
-|---|---|---|
-| `ZCL_3964_DATA_OBJECTS` | 1 | Data objects with built-in types |
-| `ZCL_3964_LITERALS` | 2 | Data objects and literals |
-| `ZCL_3964_CONSTANTS` | 3 | Constants |
-| `ZCL_3964_GLOBAL_TYPES` | 4 | Data objects with global types |
-| `ZCL_3964_LOCAL_TYPES` | 5 | Data objects with local types |
-| `ZCL_3964_CALCULATIONS` | 6 | Arithmetic calculations |
-| `ZCL_3964_STRING_PROCESSING` | 7 | String templates, format options, and string expressions |
-| `ZCL_3964_CONDITIONAL` | 8 | Conditional branching |
-| `ZCL_3964_EXCEPTION` | 9 | Exception handling |
-| `ZCL_3964_ITERATIONS` | 10 | DO loops with TIMES and abort conditions |
-| `ZCL_3964_INTERNAL_TABLES` | 11 | Working with simple internal tables |
-| `ZCL_3964_GLOBAL` | 12 | Defining a local class |
-| `ZCL_3964_GLOBAL2` | 13 | Managing instances in an internal table |
-| `ZCL_3964_INSTANCE_ITAB` | 14 | Managing instances in an internal table |
-| `ZCL_3964_GLOBAL3` | 15 | Defining and implementing methods |
-| `ZCL_3964_METHODS_EXCEPTION` | 16 | Method calls and exception handling |
-| `ZCL_3964_FUNCTIONAL_METHOD` | 17 | Functional method calls in assignments, logical expressions, and statements |
-| `ZCL_3964_BASIC_SELECT` | 18 | Basic SELECT statement examples |
-| `ZCL_3964_STRUCTURED` | 19 | Declaring structured data objects |
-| `ZCL_3964_ACCESS_STRUCTURE` | 20 | Working with structured data objects|
-| `ZCL_3964_S4D401_DEMO1` | 21 | S4D401 exercises part 1 - live session demo |
-| `ZCL_3964_STRUCTURED_data` | 22 | Structured data objects in ABAO SQL |
-| `ZCL_3964_COMPLEX_TABLES` | 23 | Simple and complex internal tables, local and global table types |
-| `ZCL_3964_FILL_COMPLEX_TABLES` | 24 | Filling complex internal tables |
-| `ZCL_3964_ACCESS_COMPLEX_TABLES` | 25 | Access to Complex Internal Tables |
-| `ZCL_3964_INT_TABLE_ABAP_SQL` | 26 | Complex Internal Tables in ABAP SQL |
+| No. | Class | Topic |
+|---:|---|---|
+| 1 | `ZCL_3964_DATA_OBJECTS` | Data objects with built-in types |
+| 2 | `ZCL_3964_LITERALS` | Data objects and literals |
+| 3 | `ZCL_3964_CONSTANTS` | Constants |
+| 4 | `ZCL_3964_GLOBAL_TYPES` | Data objects with global types |
+| 5 | `ZCL_3964_LOCAL_TYPES` | Data objects with local types |
+| 6 | `ZCL_3964_CALCULATIONS` | Arithmetic calculations |
+| 7 | `ZCL_3964_STRING_PROCESSING` | String templates, format options, and string expressions |
+| 8 | `ZCL_3964_CONDITIONAL` | Conditional branching |
+| 9 | `ZCL_3964_EXCEPTION` | Exception handling |
+| 10 | `ZCL_3964_ITERATIONS` | DO loops with TIMES and abort conditions |
+| 11 | `ZCL_3964_INTERNAL_TABLES` | Working with simple internal tables |
+| 12 | `ZCL_3964_GLOBAL` | Defining a local class |
+| 13 | `ZCL_3964_GLOBAL2` | Managing instances in an internal table |
+| 14 | `ZCL_3964_INSTANCE_ITAB` | Managing instances in an internal table |
+| 15 | `ZCL_3964_GLOBAL3` | Defining and implementing methods |
+| 16 | `ZCL_3964_METHODS_EXCEPTION` | Method calls and exception handling |
+| 17 | `ZCL_3964_FUNCTIONAL_METHOD` | Functional method calls in assignments, logical expressions, and statements |
+| 18 | `ZCL_3964_BASIC_SELECT` | Basic SELECT statement examples |
+| 19 | `ZCL_3964_STRUCTURED` | Declaring structured data objects |
+| 20 | `ZCL_3964_ACCESS_STRUCTURE` | Working with structured data objects |
+| 21 | `ZCL_3964_S4D401_DEMO1` | S4D401 exercises part 1 – live session demo |
+| 22 | `ZCL_3964_STRUCTURED_DATA` | Structured data objects in ABAP SQL |
+| 23 | `ZCL_3964_COMPLEX_TABLES` | Simple and complex internal tables, local and global table types |
+| 24 | `ZCL_3964_FILL_COMPLEX_TABLES` | Filling complex internal tables |
+| 25 | `ZCL_3964_ACCESS_COMPLEX_TABLES` | Access to complex internal tables |
+| 26 | `ZCL_3964_INT_TABLE_ABAP_SQL` | Complex internal tables in ABAP SQL |
 
 
 
